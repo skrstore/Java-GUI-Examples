@@ -1,4 +1,5 @@
-# Hello Applet
+# Applet Usage
+
 Contain the methods to run a JAVA Applet.
 
 ## Methods to run Applet
